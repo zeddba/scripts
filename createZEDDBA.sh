@@ -5,14 +5,15 @@
 #
 # usage: ./<scriptname> as oracle
 #
-# Created: Zahid Anwar
-# Date: 08/10/2017
-# Version: 1.0
+# Author : Zahid Anwar - ZedDBA - zeddba.com
+# Date: 16/05/2019
+# Version: 1.2
 #
 # History
 #
 # 1.0	08/10/2017	ZA	Initial Script
 # 1.1	10/10/2017	ZA	Add datapatch
+# 1.2	16/05/2019	ZA	Add ZEDDBA as author
 #
 #############################################################################
 # Set the Oracle User environment
